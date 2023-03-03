@@ -21,3 +21,5 @@ global:
   repository: udagram-api
   sc: git
   workspace_type: Application
+  deploy: 
+    artifact: www/archive.zip
